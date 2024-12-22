@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Wembembo
+- 👋 Hi, I’m Tim-  @Wembembo
 - 👀 I’m interested in fighting games, web development, and I'm studying Japanese. 
-- 🌱 I’m currently learning HTML and Css via AppBrewery's Web Development Bootcamp. 
+- 🌱 I’m currently learning express, node, and a little later on - react.
 - 💞️ I’m looking to collaborate on projects a little later. 
-- 📫 How to reach me via Twitter - @wembembo
+- 📫 How to reach me via Twitter, Bluesky, Discord - @wembembo
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I used to live in Texas
+- ⚡ Fun fact: I host a podcast! @GameClubPod
 
 <!---
 Wembembo/Wembembo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
