@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a full stack engineering qualification <br>👯 I’m looking to collaborate on learning tools for fighting game players<br>🤝 I’m looking for help with all sorts of stuff, very early stages in my Web Dev Career<br>🌱 I’m currently learning JavaScript, React<br>💬 Ask me about anything, I love finding out answers to stuff and researching!<br>⚡ Fun fact: I play fighting games competitively (Tekken, Guilty Gear, Street Fighter)
+🔭 I’m currently working on a full stack engineering qualification <br>👯 I’m looking to collaborate on learning tools for fighting game players<br>🤝 I’m looking for help with all sorts of stuff, very early stages in my Web Dev Career<br>🌱 I’m currently learning JavaScript, React, Python, SQL, Lua, and a bunch of other stuff<br>💬 Ask me about anything, I love finding out answers to stuff and researching!<br>⚡ Fun fact: I play fighting games competitively (Tekken, Guilty Gear, Street Fighter)
 
 
 ## 🌐 Socials:
